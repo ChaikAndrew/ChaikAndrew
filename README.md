@@ -13,3 +13,12 @@ https://chaikandrew.github.io/ice/
 
 📸 WebStudio site:
 https://chaikandrew.github.io/goit-markup-hw-08/
+
+<a
+                  href=""
+                  class="mobile__menu-link link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Instagram"
+                  >Instagram</a
+                >
