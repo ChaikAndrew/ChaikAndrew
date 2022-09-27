@@ -14,5 +14,7 @@ My portfolio:
 📸 WebStudio site:
 <a href="https://chaikandrew.github.io/goit-markup-hw-08/" target="_blank" rel="noopener noreferrer" aria-label="WebStudio">WebStudio</a>
 
+Contacts: 
 
+<a href="https://www.instagram.com/chaika_andrey/" target="_blank" rel="noopener noreferrer" aria-label="Instaram"><img src="https://img.shields.io/badge/Instagram-30302e?style=for-the-badge&logo=Instagram&logoColor=f5d467"/></a>
 
