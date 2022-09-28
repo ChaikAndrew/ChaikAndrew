@@ -16,5 +16,5 @@ My portfolio:
 
 Contacts: 
 
-<a href="https://www.instagram.com/chaika_andrey/" terget="_blank" rel="noopener noreferrer" aria-label="Instaram"><img src="https://img.shields.io/badge/Instagram-30302e?style=for-the-badge&logo=Instagram&logoColor=f5d467"/></a>
+<a href="https://www.instagram.com/chaika_andrey/" terget="_blank" rel="noopener noreferrer" aria-label="Instaram"><img src="https://img.shields.io/badge/Instagram-30302e?style=for-the-badge&logo=Instagram&logoColor=f5d467"/></a> <a href="https://github.com/ChaikAndrew?tab=repositories" terget="_blank" rel="noopener noreferrer" aria-label="Instaram"><img src="https://img.shields.io/badge/GitHub-30302e?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
