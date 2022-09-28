@@ -1,4 +1,4 @@
-### Hello 👋, I'm Andrii
+### Hi there 👋, I'm Andrii
 I'm FrontEnd Developer👨‍💻
 ##
 My technology stack :   
