@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Andrii
 I'm FrontEnd Developer👨‍💻
+
+![](https://komarev.com/ghpvc/?username=ChaikAndrew)
 ##
 My technology stack :   
 
