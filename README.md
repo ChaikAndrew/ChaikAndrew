@@ -14,6 +14,9 @@ My portfolio:
 
 📸 WebStudio site:
 <a href="https://chaikandrew.github.io/goit-markup-hw-08/" terget="_blank" rel="noopener noreferrer" aria-label="WebStudio">WebStudio</a>
+
+🔎 Search Image:
+<a href="https://chaikandrew.github.io/goit-js-hw-11/" terget="_blank" rel="noopener noreferrer" aria-label="SearchImage">SearchImage</a>
 ##
 Contacts: 
 
