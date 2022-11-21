@@ -9,7 +9,7 @@ My technology stack :
 ##
 My portfolio:
 
-🎬 Filmoteka: 
+🍿 Filmoteka: 
 <a href="https://chaikandrew.github.io/Filmoteka/" terget="_blank" rel="noopener noreferrer" aria-label="Filmoteka">Filmoteka</a>
 
 🍧 Ice cream website: 
