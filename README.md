@@ -1,17 +1,35 @@
-### Hi there 👋, I'm Andrii
-I'm FrontEnd Developer👨‍💻
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:1F2937&text=Andrii&fontColor=58A6FF&fontSize=38&animation=fadeIn&fontAlignY=40" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;JavaScript+Developer" />
+</p>
 
-##
-My technology stack :   
+<br>
 
-<img src="https://img.shields.io/badge/GitHub-30302e?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-30302e?style=for-the-badge&logo=HTML5&logoColor=99e5d5d"/> <img src="https://img.shields.io/badge/CSS3-30302e?style=for-the-badge&logo=CSS3&logoColor=4371bf"/> <img src="https://img.shields.io/badge/Sass-30302e?style=for-the-badge&logo=Sass&logoColor=ec73f0"/> <img src="https://img.shields.io/badge/JavaScript-30302e?style=for-the-badge&logo=JavaScript&logoColor=yellow"/>   <img src="https://img.shields.io/badge/React-30302e?style=for-the-badge&logo=React&logoColor=00BFFF"/> 
-##
+### 🚀 About
 
+Frontend Developer focused on creating modern, responsive and user-friendly web applications using React and JavaScript.
 
-##
-Contacts: 
+### 🛠 Tech Stack
 
-<a href="https://www.instagram.com/chaika_andrey/" terget="_blank" rel="noopener noreferrer" aria-label="Instaram"><img src="https://img.shields.io/badge/Instagram-30302e?style=for-the-badge&logo=Instagram&logoColor=f5d467"/></a> <a href="https://github.com/ChaikAndrew?tab=repositories" terget="_blank" rel="noopener noreferrer" aria-label="Instaram"><img src="https://img.shields.io/badge/GitHub-30302e?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-##
-![](https://komarev.com/ghpvc/?username=ChaikAndrew&color=blue&style=plastic)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,vscode,npm" />
+</p>
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/ChaikAndrew">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/chaika_andrey">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChaikAndrew&style=for-the-badge&color=58A6FF" />
+</p>
